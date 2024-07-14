@@ -1,1 +1,1 @@
-FROM longhornio/csi-node-driver-registrar:v2.9.2
+FROM registry.k8s.io/sig-storage/csi-node-driver-registrar:v2.5.0
